@@ -11,6 +11,12 @@ The code can be run by simply executing the script in a Python environment or fr
 
 The code can be modified to suit other text datasets by changing the file names and paths, modifying the cleaning and processing steps, and adjusting the visualization and analysis techniques as needed.
 
+![image](https://user-images.githubusercontent.com/83869412/223209657-9d2f570a-d64f-41e9-beeb-2c4eab65af8b.png)
+![image](https://user-images.githubusercontent.com/83869412/223209687-07f7a35e-d2e3-45cb-a3eb-bb9c87107efc.png)
+![image](https://user-images.githubusercontent.com/83869412/223209706-bf8f053b-4481-443f-8330-fd3f0c831a9a.png)
+![image](https://user-images.githubusercontent.com/83869412/223209731-fc1ee7a9-67f1-4dc6-8a08-b77f89015bcc.png)
+![image](https://user-images.githubusercontent.com/83869412/223209738-53ae197e-8872-4e6c-84a7-8ea4210ee7b3.png)
+![image](https://user-images.githubusercontent.com/83869412/223209748-dbd686c5-a521-42ed-9380-e8d8f11b49ed.png)
 
 
 
